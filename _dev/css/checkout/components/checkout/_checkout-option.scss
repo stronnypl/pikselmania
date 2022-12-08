@@ -1,0 +1,9 @@
+.checkout-option {
+  &__thumb {
+    height: rem-calc(50px);
+  }
+
+  &__img {
+    max-height: rem-calc(50px);
+  }
+}
